@@ -15,7 +15,7 @@ export default function Footer() {
             Contract
           </a>
           <a
-            href="https://github.com/Chibey-max"
+            href='https://github.com/Chibey-max'
             target="_blank"
             rel="noopener noreferrer"
           >
