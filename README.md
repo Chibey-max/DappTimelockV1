@@ -2,7 +2,7 @@
 
 A non-custodial ETH time-lock dApp built on Ethereum Sepolia. Deposit ETH into secure on-chain vaults that can only be withdrawn after a chosen unlock time.
 
-**Live demo:** https://timelock-vault-dapp.vercel.app  
+**Live demo:**https://dapp-timelockv1.vercel.app/
 **Contract:** [`0xb6601a2267bD083748C404823b9Fb373BcB7d228`](https://sepolia.etherscan.io/address/0xb6601a2267bD083748C404823b9Fb373BcB7d228) on Sepolia
 
 ---
