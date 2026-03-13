@@ -125,17 +125,17 @@ export default function PortfolioChart({ history, ethPrice, currentBalance }) {
     },
 
     scales: {
-      x: {
-        grid: { display: false },
-        border: { display: false },
-        ticks: {
-          color: "#7a92b3",
-          font: { family: FONT, size: 10 },
-          maxTicksLimit: 7,
-          maxRotation: 0,
-          padding: 8,
-        },
-      },
+      // x: {
+      //   grid: { display: false },
+      //   border: { display: false },
+      //   ticks: {
+      //     color: "#7a92b3",
+      //     font: { family: FONT, size: 10 },
+      //     maxTicksLimit: 7,
+      //     maxRotation: 0,
+      //     padding: 8,
+      //   },
+      // },
       y: {
         beginAtZero: false,
         position: "left",
