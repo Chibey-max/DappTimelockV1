@@ -1,4 +1,6 @@
 'use client';
+
+// import 
 import { useEffect, useRef, useState } from 'react';
 
 export default function CountUp({ to, decimals = 4, duration = 1200, color }) {

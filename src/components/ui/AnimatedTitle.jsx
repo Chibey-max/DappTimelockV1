@@ -75,7 +75,7 @@ const FILTERS = [
 ];
 
 export default function TransactionHistory({
-  history,
+  history = [],
   isLoading,
   explorerBase = "https://sepolia.etherscan.io",
 }) {
